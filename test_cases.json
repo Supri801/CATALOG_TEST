@@ -1,0 +1,28 @@
+{
+  "test_cases": [
+    {
+      "n": 2,
+      "roots": [
+        { "base": "2", "value": "111" },
+        { "base": "3", "value": "27" }
+      ]
+    },
+    {
+      "n": 3,
+      "roots": [
+        { "base": "1", "value": "5" },
+        { "base": "2", "value": "19" },
+        { "base": "3", "value": "65" }
+      ]
+    },
+    {
+      "n": 4,
+      "roots": [
+        { "base": "1", "value": "7" },
+        { "base": "2", "value": "29" },
+        { "base": "3", "value": "111" },
+        { "base": "4", "value": "247" }
+      ]
+    }
+  ]
+}
